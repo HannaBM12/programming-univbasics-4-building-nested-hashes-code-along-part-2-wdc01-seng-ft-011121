@@ -70,7 +70,7 @@ def add_characters
     apothecary = {:name => "Apothecary"}
 
     epic_tragedy[:additional_characters][0] = prince
-    epic_tragedy[:additional_characers][1] = apothecary
+    epic_tragedy[:additional_characters][1] = apothecary
 
 
    # After your code, the following line will return the altered hash
